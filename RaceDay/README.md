@@ -44,3 +44,10 @@ Technologies
 - SQL Server
 - GitHub
 - GitHub Actions
+
+## Repository Structure
+
+The project documentation is organised in the following folders:
+
+- `/docs` - Contains the ERD, API Endpoint Plan, and SQL Database Script.
+- `/.github/workflows` - Contains the GitHub Actions workflow used to validate the project repository.

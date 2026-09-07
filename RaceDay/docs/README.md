@@ -51,3 +51,7 @@ The project documentation is organised in the following folders:
 
 - `/docs` - Contains the ERD, API Endpoint Plan, and SQL Database Script.
 - `/.github/workflows` - Contains the GitHub Actions workflow used to validate the project repository.
+
+## Documentation
+
+The `/docs` folder contains the planning and database documentation required for the RaceDay project.
